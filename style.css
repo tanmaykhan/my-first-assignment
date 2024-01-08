@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    color: white;
+    background-image: url('images/Banner\ Image.png');
+    padding: 80px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 20px;
+    margin: 50px 140px;
+    background-repeat: no-repeat;
+    justify-content: space-around;
+}
+.header-title{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 92px;
+    font-weight: 900;
+    line-height: 95px;
+}
+.header{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+}
