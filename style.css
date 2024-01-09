@@ -58,6 +58,7 @@
 .first-section-of {
     text-align: center;
     margin-top: 48px;
+    margin-bottom: 150px;
 }
 
 .second-section {
@@ -106,9 +107,53 @@
     border: 1px solid;
     border-radius: 10px;
     margin-top: 150px;
-    padding: 80px; 
+    padding: 80px;
     width: 1320px;
     height: 600px;
     border-radius: 20px;
     margin: 50px 140px;
+}
+
+.paragraph-2 {
+    color: #F00;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.paragraph-3 {
+    font-size: 32px;
+}
+
+.third-section {
+    text-align: center;
+    font-size: large;
+}
+
+.button-section {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.button-2 {
+    color: #FFF;
+    border: 1px none;
+    border-radius: 8px;
+    background: #F00;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 24px;
+    text-transform: uppercase;
+}
+
+.third-section-of {
+    border: 1px none;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%), #FFF;
+    text-align: center;
+    flex-shrink: 0;
+    margin: 200px 140px;
+    padding: 100px;
 }
