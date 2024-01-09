@@ -244,15 +244,35 @@
     font-weight: 500;
     line-height: 32px;
 }
-.text-1{
+
+.text-1 {
     margin-bottom: 150px;
 }
-.image-combine{
+
+.image-combine {
+    border: 1px none;
     display: flex;
+    margin-bottom: -210px;
+    position: relative;
+}
 
+.image-combine-3 {
+    border: 10px none white;
+    width: 250px;
+    height: 250px;
+    margin-top: 120px;
+    margin-right: -100px;
+    position: relative;
+}
 
+.image-combine-4 {
+    width: 489px;
+    height: 453px;
+    display: inline;
+    margin-left: 60px;
 }
 
 .fifth-section-of {
     text-align: center;
+    border: 10px none;
 }
