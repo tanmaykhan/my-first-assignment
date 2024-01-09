@@ -206,8 +206,53 @@
     font-weight: 400;
     line-height: 32px;
 }
-.fourth-section-of{
+
+.fourth-section-of {
     display: flex;
     border: 20px none;
     margin: 140px;
+}
+
+.header-7 {
+    text-align: center;
+}
+
+.holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.sales {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.sixth-section {
+    text-align: center;
+    display: inline;
+}
+
+.para-9 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.text-1{
+    margin-bottom: 150px;
+}
+.image-combine{
+    display: flex;
+
+
+}
+
+.fifth-section-of {
+    text-align: center;
 }
