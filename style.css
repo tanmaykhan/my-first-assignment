@@ -261,7 +261,7 @@
     width: 250px;
     height: 250px;
     margin-top: 120px;
-    margin-right: -100px;
+    margin-right: -60px;
     position: relative;
 }
 
@@ -269,10 +269,11 @@
     width: 489px;
     height: 453px;
     display: inline;
-    margin-left: 60px;
+    margin-left: -100px;
 }
 
 .fifth-section-of {
     text-align: center;
-    border: 10px none;
+    border: 20px none;
+    margin: 120px;
 }
