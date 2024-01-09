@@ -1,28 +1,30 @@
-header{
+.h-title {
     text-align: center;
-    color: white;
-    background-image: url('images/Banner\ Image.png');
+    border-radius: 16px;
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     padding: 80px;
     width: 1320px;
     height: 600px;
     border-radius: 20px;
     margin: 50px 140px;
-    background-repeat: no-repeat;
-    justify-content: space-around;
 }
+
 .header-title{
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
-    font-size: 92px;
+    font-size: 110px;
     font-weight: 900;
     line-height: 95px;
 }
-.header{
+.head{
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
-    font-size: 32px;
+    padding-top: 80px;
+    font-size: 40px;
     font-weight: 400;
-    line-height: normal;
 }
