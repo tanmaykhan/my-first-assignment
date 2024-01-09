@@ -309,11 +309,17 @@
 }
 .image-grid-66{
     display: inline;
-    
-
+}
+.image-grid-88{
+    margin-top: 20px;
+    margin-bottom: 150px;
 }
 .image-grid{
+    text-align: left;
     border: 20px none;
     margin-left: 150px ;
     border-radius: 16px;
+}
+.try{
+    margin-right: 20px;
 }
