@@ -151,9 +151,63 @@
 
 .third-section-of {
     border: 1px none;
-    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%), #FFF;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%), #FFF;
     text-align: center;
     flex-shrink: 0;
     margin: 200px 140px;
     padding: 100px;
+}
+
+.header-4 {
+    color: #F00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.header-class-4 {
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.header-5 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.fourth-section {
+    text-align: left;
+    display: block;
+}
+
+.fifth-section {
+    border-radius: 364.844px;
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+}
+
+.header-60 {
+    color: #FF0000;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.para-8 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.fourth-section-of{
+    display: flex;
+    border: 20px none;
+    margin: 140px;
 }
