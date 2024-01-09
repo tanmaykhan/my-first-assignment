@@ -59,7 +59,6 @@
     text-align: center;
     margin-top: 48px;
 }
-<<<<<<< HEAD
 
 .second-section {
     color: #FFF;
@@ -81,18 +80,25 @@
 }
 
 .button {
-    color:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), #FFF;
+    color: #FFF;
+    background-color: #080311;
     text-align: center;
     font-size: 30px;
     font-weight: 700;
     text-transform: uppercase;
+    padding: 0;
+    border: none;
+    background: none;
+    padding: 40px;
 }
-.p1{
+
+.p1 {
     display: block;
     text-align: left;
 }
-.second-section-of{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)) ,url('images/Vectorrr.png');
+
+.second-section-of {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url('images/Vectorrr.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -100,5 +106,3 @@
     margin-top: 120px;
     padding: 140px;
 }
-=======
->>>>>>> 9d8ed47ce1df857bb3289136c6b9c72212450874
