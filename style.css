@@ -414,6 +414,7 @@
 
 .img {
     margin-bottom: -20px;
+    margin-top: -125px;
 }
 
 .footer-section-1 {
@@ -430,23 +431,26 @@
 }
 
 .copyright {
-    text-align: left;
+    text-align: center;
     color: #FFF;
     font-size: 24px;
     font-weight: 500;
+    padding-right: 400px;
+    padding-left: 160px;
 }
 
 .bye {
-    text-align: right;
+    text-align: center;
     color: #FFF;
     font-size: 24px;
     font-weight: 500;
-    margin-bottom: -20px;
+    padding-left: 565px;
 }
 .last{
-    display:inline ;
+    display: flex;
+    background: #070211;
     text-align: center;
     border: 20px none;
     position: relative;
-    margin: 150px;
+
 }
