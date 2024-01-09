@@ -1,7 +1,7 @@
 .h-title {
     text-align: center;
     border-radius: 16px;
-    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('images/Banner\ Image.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url('images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -12,7 +12,7 @@
     margin: 50px 140px;
 }
 
-.header-title{
+.header-title {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
@@ -20,11 +20,42 @@
     font-weight: 900;
     line-height: 95px;
 }
-.head{
+
+.head {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
     padding-top: 80px;
     font-size: 40px;
     font-weight: 400;
+}
+
+.first-section {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+}
+
+.section-paragraph {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.first-paragraph {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.first-section-of{
+    text-align: center;
+    margin-top: 48px;
 }
